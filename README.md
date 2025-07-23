@@ -14,7 +14,7 @@ I am a PhD student at **King Abdullah University of Science and Technology (KAUS
 - **April 2024:** Taught Python in the KAUST Pre-University Program.
 
 ## 📫 Contact
-- Email: hikmatullo (at) kaust.edu.sa
+- Email: hikmatullo.ismatov (at) kaust.edu.sa
 
 ---
 
