@@ -1,4 +1,3 @@
-# hikmatulloismatov1999.github.io
 # Hikmatullo Ismatov
 
 Welcome to my academic homepage.
