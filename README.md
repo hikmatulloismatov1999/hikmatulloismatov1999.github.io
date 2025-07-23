@@ -1,4 +1,3 @@
-# Hikmatullo Ismatov
 
 Welcome to my academic homepage.
 
@@ -13,8 +12,7 @@ I am a PhD student at **King Abdullah University of Science and Technology (KAUS
 - **July 2025:** Submitted master's thesis on the Infinity Laplace Equation.
 - **April 2024:** Taught Python in the KAUST Pre-University Program.
 
-## 📫 Contact
-- Email: hikmatullo.ismatov (at) kaust.edu.sa
+
 
 ---
 
